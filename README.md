@@ -1,3 +1,3 @@
-<h1 align="center">
+<h1>
   My personal website
 </h1>

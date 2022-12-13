@@ -4,7 +4,13 @@
 module.exports = {
   siteMetadata: {
     title: `tommy-li-site`,
-    siteUrl: `https://www.yourdomain.tld`,
+    description: `Tommy Li's personal website. Fullstack engineer based in Los Angeles, CA.`,
+    author: `Tommy Li`,
+    github: `tommyli10`
   },
-  plugins: [],
-}
+  plugins: [
+    `gatsby-plugin-sass`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`
+  ],
+};
