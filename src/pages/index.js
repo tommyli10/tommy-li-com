@@ -6,18 +6,20 @@ import '../styles/styles.scss';
 
 const IndexPage = () => {
   return (
-    <Layout>
-      <main>
-        <div>
-          <h1>Holistic software development + design</h1>
-          <p>I like to design and build things.</p>
+    <>
+      <Layout>
+        <main className='hero'>
           <div>
-            <Link className='button' to='/work'>See my work</Link>
-            <Link className='button' to='/about'>About me</Link>
+            <h1 className='headline'>Holistic software development + design.</h1>
+            <p className='subtitles'>Fullstack software engineer located in Los Angeles.</p>
+            <div className='hero-links'>
+              <Link className='button' to='/work'>See my work</Link>
+              <Link className='button' to='/about'>Learn about me</Link>
+            </div>
           </div>
-        </div>
-      </main>
-    </Layout>
+        </main>
+      </Layout>
+    </>
   );
 };
 

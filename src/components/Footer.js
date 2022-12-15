@@ -3,13 +3,13 @@ import { Link, graphql, useStaticQuery } from 'gatsby';
 
 export default function Footer() {
     return (
-        <div>
-            <h4>Software Engineer</h4>
+        <footer>
+            <a href='javascript:void(0);'>Software Engineer</a>
             <div>
-                <Link to='mailto:tommyli76278@gmail.com'>Portfolio</Link>
-                <Link to='https://github.com/tommyli10'>Portfolio</Link>
+                <Link to='mailto:tommyli76278@gmail.com'>Contact</Link>
+                <Link to='https://github.com/tommyli10'>Github</Link>
                 <Link to='https://linkedin.com/in/tommyli10'>Linkedin</Link>
             </div>
-        </div>
+        </footer>
     )
 }
