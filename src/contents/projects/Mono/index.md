@@ -1,6 +1,6 @@
 ---
 title: MonoJStick
-period: 2021
+period: 2022
 slug: monojstick
 description: Code Snippet Sharing App
 tech: [React, Node/Express, Firebase, Firestore, Webpack]
