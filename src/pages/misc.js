@@ -1,5 +1,4 @@
 import React from 'react';
-import Project from '../components/Project-Title';
 import Layout from '../components/Layout';
 
 export default function projects() {
@@ -11,9 +10,7 @@ export default function projects() {
                 <div className='misc'>
                     <div className='misc-titles'>
                         <div className='misc-list'>
-                            {titles.map(title => (
-                                <Project title={title} />
-                            ))}
+                            Coming soon
                         </div>
                     </div>
                 </div>

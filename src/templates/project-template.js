@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import Layout from '../components/Layout';
-// import * as styles from '../styles/project-details.scss';
+import '../styles/projects.scss';
 
 export default function project({ data }) {
     const { html } = data.markdownRemark;
@@ -20,9 +20,6 @@ export default function project({ data }) {
                             <h1 className='project-title'>{title}</h1>
                             <h2 className='project-description'>{description}</h2>
                         </div>
-                        <div className='project-link'>
-                            <Link to={url}>{url}</Link>
-                        </div>
                     </div>
                     <div className='project-body'>
                         <div className='project-meta'>
@@ -31,6 +28,9 @@ export default function project({ data }) {
                                     <li key={`${item}-${index}`}>{item}</li>
                                 ))}
                             </ul>
+                            <div className='project-link'>
+                                <Link to={url}>{url}</Link>
+                            </div>
                         </div>
                     </div>
                     <div className='project-text'>
