@@ -15,18 +15,18 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-image`,
     `gatsby-transformer-remark`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Tommy Li`,
-        short_name: `Tommy Li`,
-        start_url: `/`,
-        background_color: `#383838`,
-        theme_color: `#ffffff`,
-        display: `minimal-ui`,
-        icon: `src/icons/Logo_empty.png`
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Tommy Li`,
+    //     short_name: `Tommy Li`,
+    //     start_url: `/`,
+    //     background_color: `#383838`,
+    //     theme_color: `#ffffff`,
+    //     display: `minimal-ui`,
+    //     icon: `src/icons/Logo_empty.png`
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
