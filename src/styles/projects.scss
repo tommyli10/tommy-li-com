@@ -11,6 +11,9 @@
     h1:hover {
         color: mix($text-color, #fff, 75%);
     }
+    &:last-child {
+        border-bottom: 0;
+    }
     @include tablet {
         h1 {
             font-size: 3em;
