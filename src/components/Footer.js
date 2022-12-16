@@ -6,7 +6,7 @@ export default function Footer() {
         <footer>
             <a href='javascript:void(0);'>Software Engineer</a>
             <div>
-                <Link to='mailto:tommyli76278@gmail.com'>Contact</Link>
+                <Link to='mailto:tommylidev@gmail.com'>Contact</Link>
                 <Link to='https://github.com/tommyli10'>Github</Link>
                 <Link to='https://linkedin.com/in/tommyli10'>Linkedin</Link>
             </div>
