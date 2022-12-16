@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import Layout from '../components/Layout';
-import * as styles from '../styles/project-details.scss';
+// import * as styles from '../styles/project-details.scss';
 
 export default function project({ data }) {
     const { html } = data.markdownRemark;
@@ -13,7 +13,7 @@ export default function project({ data }) {
     return (
         <>
             <Layout>
-                <div className={styles.project}>
+                <div className='project'>
                     <div className='project-header'>
                         <span className='project-period'>{period}</span>
                         <div className='project-text'>
