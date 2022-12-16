@@ -5,8 +5,8 @@ export default function about() {
     return (
         <>
             <Layout>
-                <div className='work'>
-                    <div className='projects'>
+                <div className='about'>
+                    <div className='intro-section'>
                         about
                     </div>
                 </div>
