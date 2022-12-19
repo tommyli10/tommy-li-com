@@ -8,6 +8,6 @@ url: https://github.com/tommyli10/MonoJStich
 featuredImg: []
 ---
 
-Coming soon
+Hosting currently down
 
 A place for people to share their favorite one liner JavaScript codes. PS: the 'J' is silent.
