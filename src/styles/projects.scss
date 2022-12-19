@@ -103,7 +103,10 @@
     align-items: center;
 }
 
-.project-images img {
+.project-image-container {
     padding-bottom: 2em;
+}
+
+.project-images img {
     object-fit: cover;
 }

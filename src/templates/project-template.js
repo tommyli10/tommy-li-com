@@ -40,7 +40,11 @@ export default function project({ data }) {
                         />
                     </div>
                     <div className='project-images'>
-                        {images.map(img => <GatsbyImage image={img} alt='project picture' />)}
+                        {images.map(img => (
+                            <div className='project-image-container'>
+                                <GatsbyImage image={img} alt='project picture' />
+                            </div>
+                        ))}
                     </div>
                 </div>
             </Layout>
