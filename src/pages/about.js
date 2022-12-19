@@ -48,7 +48,7 @@ export default function about({ data }) {
                             <ul>
                                 <li><strong>Technical: </strong>JavaScript, React (Hooks, Router), Redux, Node.js, Express, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, TypeScript
                                     Authentication (bcrypt, JWT), Webpack, Git/Github, Chart.js, Chakra UI, Material UI, Bootstrap, HTML/CSS/SAS, Python, TDD (Jest, Supertest, React Testing Library),
-                                    Docker, AWS, CI/CD (AWS CodePipeline, Netlify), SEO</li>
+                                    Docker, AWS, CI/CD (AWS CodePipeline, Netlify), WordPress, Wix, SEO</li>
                                 <li><strong>Graphics/3D Modeling: </strong>Photoshop, Illustrator, InDesign, Rhino, Grasshopper, SketchUp</li>
                             </ul>
                         </div>
