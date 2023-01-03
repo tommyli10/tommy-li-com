@@ -10,7 +10,7 @@ export default function Header() {
             <div>
                 <Link to='/work'>Portfolio</Link>
                 <Link to='/about'>About</Link>
-                <Link to='/misc'>Misc</Link>
+                {/* <Link to='/misc'>Misc</Link> */}
             </div>
         </header>
     )
