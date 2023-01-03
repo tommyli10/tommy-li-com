@@ -12,7 +12,7 @@ const IndexPage = () => {
         <main className='hero'>
           <div>
             <h1 className='headline'>Holistic software development + design.</h1>
-            <p className='subtitles'>Fullstack software engineer located in Los Angeles.</p>
+            <p className='subtitles'>Fullstack software engineer, gamer, bouderling fan located in Los Angeles.</p>
             <div className='hero-links'>
               <Link className='button' to='/work'>See my work</Link>
               <Link className='button' to='/about'>Learn about me</Link>
