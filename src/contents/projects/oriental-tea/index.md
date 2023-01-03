@@ -1,6 +1,6 @@
 ---
 title: Oriental Tea
-order: 3
+order: 4
 period: 2020
 slug: oriental-tea
 description: Boba Tea Shop

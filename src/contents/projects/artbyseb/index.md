@@ -1,6 +1,6 @@
 ---
 title: Art By Seb
-order: 4
+order: 3
 period: 2020
 slug: artbyseb
 description: Student Portfolio

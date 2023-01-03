@@ -16,7 +16,7 @@ export default function about({ data }) {
                         </div>
                         <div className='profile-summary'>
                             <div>
-                                <p>Hi, I'm Tommy. I like to design and build things. I am currently a freelance fullstack developer located in Los Angeles.</p>
+                                <p>Hi, I'm Tommy. I like to design and build things. I am a fullstack developer located in Los Angeles.</p>
                                 <br />
                                 <p>Other than designing and creating responsive websites for individuals and small businesses, I am also an advocate and contributor for open source products that help developers.</p>
                             </div>
@@ -33,7 +33,7 @@ export default function about({ data }) {
                             </h2>
                         </div>
                         <div className='profile-section-info'>
-                            <p>I believe that the best engineers think like designers. Whether it is building an external API, programmatic API, or user interface, I always remind myself that keeping the user's needs in mind is the heart of a good user experience.</p>
+                            <p>I have a degree in architecture, and years of working with engineers and desinging building systems with many parts led me to believe that the best engineers think like designers. Whether it is building an external API, programmatic API, or user interface, I always remind myself that keeping the user's needs in mind is the heart of a good user experience.</p>
                             <br />
                             <p>While I like to learn new technologies to expand my toolset, I value working software over specific tools. This is because I've been caught in analysis paralysis and realized that I learn more by just start solving problems, and that will often lead me to iterate into better solutions.</p>
                         </div>
@@ -47,8 +47,8 @@ export default function about({ data }) {
                         <div className='profile-section-info'>
                             <ul>
                                 <li><strong>Technical: </strong>JavaScript, React (Hooks, Router), Redux, Node.js, Express, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, TypeScript
-                                    Authentication (bcrypt, JWT), Webpack, Git/Github, Chart.js, Chakra UI, Material UI, Bootstrap, HTML/CSS/SAS, Python, TDD (Jest, Supertest, React Testing Library),
-                                    Docker, AWS, CI/CD (AWS CodePipeline, Netlify), WordPress, Wix, SEO</li>
+                                    Authentication (bcrypt, JWT), Webpack, Gatsby, Git/Github, Chart.js, Chakra UI, Material UI, Bootstrap, HTML/CSS/SAS, TDD (Jest, Supertest),
+                                    Docker, AWS, Netlify, WordPress</li>
                                 <li><strong>Graphics/3D Modeling: </strong>Photoshop, Illustrator, InDesign, Rhino, Grasshopper, SketchUp</li>
                             </ul>
                         </div>
