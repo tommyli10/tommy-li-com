@@ -3,6 +3,7 @@ import { Link, graphql } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import Layout from '../components/Layout';
 import '../styles/projects.scss';
+import { SEO } from "../components/seo";
 
 export default function project({ data }) {
     const { html } = data.markdownRemark;
@@ -12,6 +13,7 @@ export default function project({ data }) {
 
     return (
         <>
+            <SEO title={title} />
             <Layout>
                 <div className='project'>
                     <div className='project-header'>

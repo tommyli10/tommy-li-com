@@ -5,7 +5,7 @@ period: 2021
 slug: t-design
 description: Custom website
 tech: [Web Design, HTML, CSS]
-url: https://t-design-architecture.glitch.me/
+url: https://t-design.glitch.me
 featuredImg: ["./tdesign.png"]
 ---
 

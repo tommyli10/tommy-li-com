@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby";
 import Layout from '../components/Layout';
 import '../styles/normalize.css';
 import '../styles/styles.scss';
+import { SEO } from "../components/seo";
 
 const IndexPage = () => {
   return (
@@ -25,4 +26,6 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => (
+  <SEO />
+)

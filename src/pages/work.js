@@ -2,7 +2,7 @@ import React from 'react';
 import Project from '../components/Project-Preview';
 import Layout from '../components/Layout';
 import { graphql, Link } from 'gatsby';
-import * as styles from '../styles/projects.scss';
+import { SEO } from "../components/seo";
 
 export default function projects({ data }) {
     const projects = data.projects.nodes;
@@ -26,6 +26,10 @@ export default function projects({ data }) {
         </>
     )
 }
+
+export const Head = () => (
+    <SEO title={'Works'} />
+)
 
 export const query = graphql`
     query AllProjects {

@@ -6,7 +6,9 @@ module.exports = {
     title: `Tommy Li`,
     description: `Tommy Li's personal website. Fullstack engineer based in Los Angeles, CA.`,
     author: `Tommy Li`,
-    github: `tommyli10`
+    github: `tommyli10`,
+    image: `/src/icons/logo.png`,
+    siteUrl: `https://tommy-li.com/`
   },
   plugins: [
     `gatsby-plugin-sass`,
