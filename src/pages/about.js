@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import Layout from '../components/Layout';
-import { SEO } from "../components/seo";
+import SEO from "../components/seo";
 
 export default function about({ data }) {
     const pic = getImage(data.file.childImageSharp);
@@ -60,7 +60,7 @@ export default function about({ data }) {
 }
 
 export const Head = () => (
-    <SEO title={'About Page'} />
+    <SEO title={'About'} />
 )
 
 export const query = graphql`
