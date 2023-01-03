@@ -1,3 +1,3 @@
 <h1>
-  My personal website
+  My personal site
 </h1>
