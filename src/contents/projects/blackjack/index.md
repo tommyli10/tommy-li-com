@@ -1,6 +1,6 @@
 ---
 title: Simple Blackjack
-order: 3.5
+order: 4
 period: 2021
 slug: simple-blackjack
 description: Boba Tea Shop
