@@ -9,4 +9,4 @@ url: https://t-design.glitch.me
 featuredImg: ["./tdesign.png"]
 ---
 
-A sleek and fully responsive site for an architecture firm. HTML/CSS files converted from PSD, then modified.
+Designed and built a fully responsive site for a design firm.

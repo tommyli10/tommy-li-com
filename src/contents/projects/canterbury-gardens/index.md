@@ -1,6 +1,6 @@
 ---
 title: Canterbury Gardens
-order: 6
+order: 4
 period: 2018
 slug: canterbury-gardens
 description: Holiday Gift Shop

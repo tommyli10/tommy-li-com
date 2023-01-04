@@ -17,7 +17,7 @@ export default function about({ data }) {
                         </div>
                         <div className='profile-summary'>
                             <div>
-                                <p>Hi, I'm Tommy. I like to design and build things. I am a fullstack developer located in Los Angeles.</p>
+                                <p>Hi, I'm Tommy. I like to design and build things. I am a fullstack developer located in Los Angeles. When I am not coding, I like to play Overwatch, do indoor bouldering, or hike Mt. Baldy that's right behind my house.</p>
                                 <br />
                                 <p>Other than designing and creating responsive websites for individuals and small businesses, I am also an advocate and contributor for open source products that help developers.</p>
                             </div>
@@ -51,6 +51,18 @@ export default function about({ data }) {
                                     Authentication (bcrypt, JWT), Webpack, Gatsby, Git/Github, Chart.js, Chakra UI, Material UI, Bootstrap, HTML/CSS/SAS, TDD (Jest, Supertest),
                                     Docker, AWS, Netlify, WordPress</li>
                                 <li><strong>Graphics/3D Modeling: </strong>Photoshop, Illustrator, InDesign, Rhino, Grasshopper, SketchUp</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div className='experiences'>
+                        <div className='profile-topic'>
+                            <h2>
+                                Etc.
+                            </h2>
+                        </div>
+                        <div className='profile-section-info'>
+                            <ul>
+                                <li>This site is built with React and Gatsby then hosted for free on Netlify.</li>
                             </ul>
                         </div>
                     </div>
