@@ -12,7 +12,7 @@ const IndexPage = () => {
         <main className='hero'>
           <div>
             <h1 className='headline'>Tommy Li</h1>
-            <p className='subtitles'>I am a fullstack software engineer, gamer, bouldering fan from Los Angeles.</p>
+            <p className='subtitles'>I am a fullstack software engineer, former architect, gamer, bouldering fan from Los Angeles.</p>
             <div className='hero-links'>
               <Link className='button' to='/work'>See my work</Link>
               <Link className='button' to='/about'>Learn about me</Link>

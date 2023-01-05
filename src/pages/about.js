@@ -47,11 +47,56 @@ export default function about({ data }) {
                         </div>
                         <div className='profile-section-info'>
                             <ul>
-                                <li><strong>Technical: </strong>JavaScript, React (Hooks, Router), Redux, Node.js, Express, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, TypeScript
-                                    Authentication (bcrypt, JWT), Webpack, Gatsby, Git/Github, Chart.js, Chakra UI, Material UI, Bootstrap, HTML/CSS/SAS, TDD (Jest, Supertest),
-                                    Docker, AWS, Netlify, WordPress</li>
+                                <li><strong>Frontend: </strong>JavaScript, React, Redux,  HTML/CSS/SASS, TypeScript, Gatsby, D3/Chart.js, Chakra-UI, Material-UI, Bootstrap, WordPress</li>
+                                <li><strong>Backend: </strong>Node.js, Express.js, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, Authentication (bcrypt, JWT), Docker, Webpack, Firebase, Netlify, Git/Github, TDD (Jest, Supertest), AWS (EB, EC2, CloudFront), Github Actions, Railway, Heroku, </li>
                                 <li><strong>Graphics/3D Modeling: </strong>Photoshop, Illustrator, InDesign, Rhino, Grasshopper, SketchUp</li>
                             </ul>
+                        </div>
+                    </div>
+                    <div className='experiences'>
+                        <div className='profile-topic'>
+                            <h2>
+                                Experience
+                            </h2>
+                        </div>
+                        <div className='profile-section-info'>
+                            <div className='work-experience'>
+                                <div className='work-intro'>
+                                    <strong className='work-title'>Peconea Consultancy | Software Engineer</strong>
+                                    <p className='work-year'>Mar 2020 - Present</p>
+                                </div>
+                                <ul className='work-descriptions'>
+                                    <li>Worked with clients to understand their needs and design/build websites that align with their visions</li>
+                                    <li>Leveraged React, HTML/CSS, and Gatsby to build responsive and performant websites that can scale</li>
+                                    <li>Handled RESTful and GraphQL API service requests with Express.js and Apollo backend</li>
+                                    <li>Worked with modules like MongoDB and mongoose for database persistence using Node.js to interact with MongoDB</li>
+                                    <li>Set up continuous deployment (CD) pipeline for various websites using Github and Netlify</li>
+                                    <li>Implemented and used Mailchimp to handle the mailing lists</li>
+                                </ul>
+                            </div>
+                            <div className='work-experience'>
+                                <div className='work-intro'>
+                                    <strong className='work-title'>Heller Manus Architects | Intern Designer</strong>
+                                    <p className='work-year'>Mar 2019 - Aug 2019</p>
+                                </div>
+                                <ul className='work-descriptions'>
+                                    <li>Responsible for planning and designing multiple residential projects in the San Francisco and Greater Los Angeles Metropolitan Area</li>
+                                    <li>Developed and maintained project documents using various tools ranging from CAD to data-driven BIM software</li>
+                                    <li>Assisted project managers in direction of project planning, budgeting, and establishing critical project objectives</li>
+                                    <li>Communicated and worked out solutions with professionals from multiple fields, including engineers and city planners, during various project phases for design and sustainability feedback</li>
+                                </ul>
+                            </div>
+                            <div className='work-experience'>
+                                <div className='work-intro'>
+                                    <strong className='work-title'>Canterbury Gardens & Gifts | Freelance Web Developer</strong>
+                                    <p className='work-year'>Jan 2018 - Sep 2018</p>
+                                </div>
+                                <ul className='work-descriptions'>
+                                    <li>Utilized WordPress to rebuild Magento website and incorporated SEO Framework plugin for better search engine optimization</li>
+                                    <li>Managed a database of SKUs for eCommerce website for brick-and-mortar Christmas store</li>
+                                    <li>Used MailChimp to set up mailing list for advertising and marketing purposes</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div className='experiences'>
@@ -62,7 +107,7 @@ export default function about({ data }) {
                         </div>
                         <div className='profile-section-info'>
                             <ul>
-                                <li>This site is built with React and Gatsby then hosted for free on Netlify.</li>
+                                <li>This site is built with React, SASS, and Gatsby then hosted for free on Netlify. Repo for this portfolio site <a className='about-link' href='https://github.com/tommyli10/tommy-li-com'>here</a>.</li>
                             </ul>
                         </div>
                     </div>
