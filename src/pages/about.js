@@ -48,7 +48,8 @@ export default function about({ data }) {
                         <div className='profile-section-info'>
                             <ul>
                                 <li><strong>Frontend: </strong>JavaScript, React, Redux,  HTML/CSS/SASS, TypeScript, Gatsby, D3/Chart.js, Chakra-UI, Material-UI, Bootstrap, WordPress</li>
-                                <li><strong>Backend: </strong>Node.js, Express.js, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, Authentication (bcrypt, JWT), Docker, Webpack, Firebase, Netlify, Git/Github, TDD (Jest, Supertest), AWS (EB, EC2, CloudFront), Github Actions, Railway, Heroku, </li>
+                                <li><strong>Backend: </strong>Node.js, Express.js, SQL (PostgreSQL), NoSQL (MongoDB), GraphQL, Apollo, Authentication (bcrypt, JWT),  Firebase, TDD (Jest, Supertest)</li>
+                                <li><strong>Hosting/DevOps: </strong>Docker, Webpack, AWS (EB, EC2, CloudFront), Netlify, Git/Github, Github Actions, Railway, Heroku</li>
                                 <li><strong>Graphics/3D Modeling: </strong>Photoshop, Illustrator, InDesign, Rhino, Grasshopper, SketchUp</li>
                             </ul>
                         </div>
