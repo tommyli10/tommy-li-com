@@ -8,12 +8,12 @@
 <p>Fully responsive site built with React, SCSS, and Gatsby. Hosted on Netlify</p>
 
 
-<div align="center">
+<div>
   <h4>Desktop</h4>
  <img style="max-width:400px;" src="https://i.imgur.com/Dy3dyjv.png">
 </div>
 
-<div align="center">
+<div>
   <h4>Mobile</h4>
  <img style="max-width:100px;" src="https://i.imgur.com/JoGHFUs.png">
 </div>
