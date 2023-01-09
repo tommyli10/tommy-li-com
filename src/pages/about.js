@@ -64,7 +64,7 @@ export default function about({ data }) {
                             <div className='work-experience'>
                                 <div className='work-intro'>
                                     <strong className='work-title'>Peconea Consultancy | Software Engineer</strong>
-                                    <p className='work-year'>Mar 2020 - Present</p>
+                                    <p className='work-year'>Mar 2021 - Present</p>
                                 </div>
                                 <ul className='work-descriptions'>
                                     <li>Worked with clients to understand their needs and design/build websites that align with their visions</li>
@@ -78,13 +78,24 @@ export default function about({ data }) {
                             <div className='work-experience'>
                                 <div className='work-intro'>
                                     <strong className='work-title'>Heller Manus Architects | Intern Designer</strong>
-                                    <p className='work-year'>Mar 2019 - Aug 2019</p>
+                                    <p className='work-year'>Mar 2020 - Aug 2020</p>
                                 </div>
                                 <ul className='work-descriptions'>
                                     <li>Responsible for planning and designing multiple residential projects in the San Francisco and Greater Los Angeles Metropolitan Area</li>
                                     <li>Developed and maintained project documents using various tools ranging from CAD to data-driven BIM software</li>
                                     <li>Assisted project managers in direction of project planning, budgeting, and establishing critical project objectives</li>
                                     <li>Communicated and worked out solutions with professionals from multiple fields, including engineers and city planners, during various project phases for design and sustainability feedback</li>
+                                </ul>
+                            </div>
+                            <div className='work-experience'>
+                                <div className='work-intro'>
+                                    <strong className='work-title'>California Polytechnic State University | Front End Developer</strong>
+                                    <p className='work-year'>Jan 2019 - Aug 2019</p>
+                                </div>
+                                <ul className='work-descriptions'>
+                                    <li>Worked alongside the UI/UX developer for Cal Poly Administration and Finance Department (AFD)</li>
+                                    <li>Created dynamic forms with JavaScript, jQuery, and PHP</li>
+                                    <li>Built responsive department pages using Foundation following best practices in accessibility and UI/UX</li>
                                 </ul>
                             </div>
                             <div className='work-experience'>
