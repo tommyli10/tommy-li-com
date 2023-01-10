@@ -104,7 +104,7 @@ export default function about({ data }) {
                                     <p className='work-year'>Jan 2018 - Sep 2018</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Utilized WordPress to rebuild Magento website and incorporated SEO Framework plugin for better search engine optimization</li>
+                                    <li>Built website with HTML/CSS, JavaScript, and a NoSQL database that are ideal for large amount of store items</li>
                                     <li>Managed a database of SKUs for eCommerce website for brick-and-mortar Christmas store</li>
                                     <li>Used MailChimp to set up mailing list for advertising and marketing purposes</li>
                                 </ul>
