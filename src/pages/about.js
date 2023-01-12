@@ -63,16 +63,17 @@ export default function about({ data }) {
                         <div className='profile-section-info'>
                             <div className='work-experience'>
                                 <div className='work-intro'>
-                                    <strong className='work-title'>Peconea Consultancy | Software Engineer</strong>
-                                    <p className='work-year'>Mar 2021 - Present</p>
+                                    <strong className='work-title'>Kensa | Software Engineer</strong>
+                                    <p className='work-year'>Aug 2022 - Present</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Worked with clients to understand their needs and design/build websites that align with their visions</li>
-                                    <li>Leveraged React, HTML/CSS, and Gatsby to build responsive and performant websites that can scale</li>
-                                    <li>Handled RESTful and GraphQL API service requests with Express.js and Apollo backend</li>
-                                    <li>Worked with modules like MongoDB and mongoose for database persistence using Node.js to interact with MongoDB</li>
-                                    <li>Set up continuous deployment (CD) pipeline for various websites using Github and Netlify</li>
-                                    <li>Implemented and used Mailchimp to handle the mailing lists</li>
+                                    <li>Developed GraphQL API monitoring app using React to dynamically generate components at runtime and maintain one-way data flow across the entire application, increasing scalability and creating a more intuitive debugging process</li>
+                                    <li>Implemented a GraphQL IDE using Monaco Editor to allow users to test GraphQL queries, providing a one-stop testing and data-monitoring playground to speed up development process for GraphQL schemas and resolvers</li>
+                                    <li>Created an npm package for app users to easily establish connection between Apollo server and a SQL database through an API key to collect and store query metrics of all requests that are sent to custom GraphQL API endpoints</li>
+                                    <li>Created custom TypeScripts types and interfaces to leverage auto type-checking functionality to minimize bugs and prevent runtime errors, improving application scalability and facilitating cross-development among teams</li>
+                                    <li>Integrated Apollo Server to an Express backend to communicate with SQL database and provide a self-documenting GraphQL API to the frontend for faster request queries with strongly typed schemas and fields that provide descriptive error messages before execution</li>
+                                    <li>Incorporated Apollo Client to create custom React hooks using predefined GraphQL fields to query the exact data and resources from SQL database in a single request on the client side, eliminating over-fetching or under-fetching problems</li>
+                                    <li>Deployed application using AWS Elastic Beanstalk and setup Cloudfront distribution to direct all incoming traffic to registered domain name as well as sending all outgoing requests using a secure HTTPS port</li>
                                 </ul>
                             </div>
                             <div className='work-experience'>
