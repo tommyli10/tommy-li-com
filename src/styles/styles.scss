@@ -40,9 +40,20 @@ a {
         margin-bottom: 0.75em;
         text-align: center;
     }
+    &.button-reverse {
+        border: 2px solid $page-color;
+        color: $page-color;
+        background-color: $text-color;
+        transition: 0.4s background-color cubic-bezier(0.1, 0.8, 0.165, 1), 0.4s color cubic-bezier(0.1, 0.8, 0.165, 1);
+    }
     &:hover {
         background-color: $text-color;
         color: $page-color;
+    }
+    &.button-reverse:hover {
+        color: $text-color;
+        background-color: $page-color;
+        border: 2px solid $text-color;
     }
     @include tablet {
         font-size: 1.1em;
