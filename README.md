@@ -5,7 +5,7 @@
   <a href="https://tommy-li.com/">Live Site</a>
 </div>
 <br />
-<p>Fully responsive site built with React, SCSS, and Gatsby. Hosted on Netlify</p>
+<p>Fully responsive site built from scratch with React, SASS, and Gatsby. Hosted on Netlify</p>
 
 
 <div>
