@@ -1,7 +1,7 @@
 ---
 title: Fusion Resturant
 order: 3.5
-period: 2020
+period: 2021
 slug: fusion-resturant
 description: Custom website
 tech: [Web Design, HTML, CSS]

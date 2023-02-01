@@ -1,7 +1,7 @@
 ---
 title: SebArt
 order: 3
-period: 2020
+period: 2021
 slug: sebart
 description: Student Portfolio
 tech: [Content Strategy, Web Design, WordPress]

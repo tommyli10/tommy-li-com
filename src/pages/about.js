@@ -63,7 +63,7 @@ export default function about({ data }) {
                         <div className='profile-section-info'>
                             <div className='work-experience'>
                                 <div className='work-intro'>
-                                    <strong className='work-title'>Kensa | Software Engineer</strong>
+                                    <strong className='work-title'>Kensa | Open Source Developer</strong>
                                     <p className='work-year'>Aug 2022 - Present</p>
                                 </div>
                                 <ul className='work-descriptions'>
@@ -78,25 +78,33 @@ export default function about({ data }) {
                             </div>
                             <div className='work-experience'>
                                 <div className='work-intro'>
-                                    <strong className='work-title'>Heller Manus Architects | Intern Designer</strong>
-                                    <p className='work-year'>Mar 2020 - Aug 2020</p>
+                                    <strong className='work-title'>Freelance | Web Developer</strong>
+                                    <p className='work-year'>Jan 2021 - Present</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Responsible for planning and designing multiple residential projects in the San Francisco and Greater Los Angeles Metropolitan Area</li>
-                                    <li>Developed and maintained project documents using various tools ranging from CAD to data-driven BIM software</li>
-                                    <li>Assisted project managers in direction of project planning, budgeting, and establishing critical project objectives</li>
-                                    <li>Communicated and worked out solutions with professionals from multiple fields, including engineers and city planners, during various project phases for design and sustainability feedback</li>
+                                    <li>Completed many websites for clients, including custom sites with HTML/CSS/JS, hosting, handled RESTful requests
+                                        with Node.js/Express.js and more miscellaneous web development work</li>
+                                    <li>Worked with modules like mongoose and node-postgres for Node.js to interact with MongoDB and PostgreSQL</li>
                                 </ul>
                             </div>
                             <div className='work-experience'>
                                 <div className='work-intro'>
-                                    <strong className='work-title'>California Polytechnic State University | Front End Developer</strong>
+                                    <strong className='work-title'>SECONEA Architects | Architect</strong>
+                                    <p className='work-year'>June 2021 - Dec 2021</p>
+                                </div>
+                                <ul className='work-descriptions'>
+                                    <li>Handled a range of assignment that vary in scope and daily responsibilities, including keeping team effort organized, ensuring quality in project delivery, managing project budgets and schedules</li>
+                                    <li>Work with Project Managers to design and adapt projects in accordance with zoning ordinances and building guidelines</li>
+                                </ul>
+                            </div>
+                            <div className='work-experience'>
+                                <div className='work-intro'>
+                                    <strong className='work-title'>California Polytechnic State University | Student Developer</strong>
                                     <p className='work-year'>Jan 2019 - Aug 2019</p>
                                 </div>
                                 <ul className='work-descriptions'>
                                     <li>Worked alongside the UI/UX developer for Cal Poly Administration and Finance Department (AFD)</li>
-                                    <li>Created dynamic forms with JavaScript, jQuery, and PHP</li>
-                                    <li>Built responsive department pages using Foundation following best practices in accessibility and UI/UX</li>
+                                    <li>Construct marketing material with Photoshop and Illustrator for Architectural department</li>
                                 </ul>
                             </div>
                             <div className='work-experience'>
@@ -105,8 +113,7 @@ export default function about({ data }) {
                                     <p className='work-year'>Jan 2018 - Sep 2018</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Built website with HTML/CSS, JavaScript, and a NoSQL database that are ideal for large amount of store items</li>
-                                    <li>Managed a database of SKUs for eCommerce website for brick-and-mortar Christmas store</li>
+                                    <li>Built website with WordPress and managed a database of SKUs for eCommerce website</li>
                                     <li>Used MailChimp to set up mailing list for advertising and marketing purposes</li>
                                 </ul>
                             </div>
