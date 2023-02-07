@@ -113,7 +113,7 @@ export default function about({ data }) {
                                     <p className='work-year'>Jan 2018 - Sep 2018</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Built website with WordPress and managed a database of SKUs for eCommerce website</li>
+                                    <li>Built website with HTML/CSS and managed a database of SKUs with WooCommerce for an Christmas items store</li>
                                     <li>Used MailChimp to set up mailing list for advertising and marketing purposes</li>
                                 </ul>
                             </div>
