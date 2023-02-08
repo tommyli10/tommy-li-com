@@ -5,7 +5,7 @@ period: 2020
 slug: oriental-tea
 description: Boba Tea Shop
 tech: [Web Design, WordPress, eCommerce]
-url: http://orientaltea.com/
+url: https://orientaltea.com/
 featuredImg: ["./oriental-tea.png"]
 ---
 
