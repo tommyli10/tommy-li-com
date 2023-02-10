@@ -11,6 +11,9 @@ export default function SEO({ title, description, pathname, children }) {
     url: `${siteUrl}${pathname || ``}`,
   }
 
+  console.log('logo', seo.image)
+  console.log('url', seo.url)
+
   return (
     <>
       <title>{seo.title}</title>
