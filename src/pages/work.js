@@ -1,7 +1,7 @@
 import React from 'react';
 import Project from '../components/Project-Preview';
 import Layout from '../components/Layout';
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import SEO from "../components/SEO";
 
 export default function projects({ data }) {
