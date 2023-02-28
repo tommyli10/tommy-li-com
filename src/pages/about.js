@@ -79,7 +79,7 @@ export default function about({ data }) {
                             <div className='work-experience'>
                                 <div className='work-intro'>
                                     <strong className='work-title'>Freelance | Web Developer</strong>
-                                    <p className='work-year'>Jan 2021 - Present</p>
+                                    <p className='work-year'>Mar 2020 - Present</p>
                                 </div>
                                 <ul className='work-descriptions'>
                                     <li>Completed many websites for clients, including custom sites with HTML/CSS/JS, hosting, handled RESTful requests
@@ -93,8 +93,8 @@ export default function about({ data }) {
                                     <p className='work-year'>June 2021 - Dec 2021</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Handled a range of assignment that vary in scope and daily responsibilities, including keeping team effort organized, ensuring quality in project delivery, managing project budgets and schedules</li>
-                                    <li>Work with Project Managers to design and adapt projects in accordance with zoning ordinances and building guidelines</li>
+                                    <li>Handled a range of assignment that vary in scope and daily responsibilities, including consulting clients to understand their needs and create designs and presentational materials accordingly, ensuring quality in project delivery, managing project budgets and schedules</li>
+                                    <li>Work with contractors and city planners to design and adapt projects in accordance with zoning ordinances and building guidelines</li>
                                 </ul>
                             </div>
                             <div className='work-experience'>
@@ -103,18 +103,8 @@ export default function about({ data }) {
                                     <p className='work-year'>Jan 2019 - Aug 2019</p>
                                 </div>
                                 <ul className='work-descriptions'>
-                                    <li>Worked alongside the UI/UX developer for Cal Poly Administration and Finance Department (AFD)</li>
+                                    <li>Worked alongside the UI/UX developer for Cal Poly Administration and Finance Department (AFD) to produce materials for department webpage</li>
                                     <li>Construct marketing material with Photoshop and Illustrator for Architectural department</li>
-                                </ul>
-                            </div>
-                            <div className='work-experience'>
-                                <div className='work-intro'>
-                                    <strong className='work-title'>Canterbury Gardens & Gifts | Freelance Web Developer</strong>
-                                    <p className='work-year'>Jan 2018 - Sep 2018</p>
-                                </div>
-                                <ul className='work-descriptions'>
-                                    <li>Built website with Wordpress and managed a database of SKUs with WooCommerce for an Christmas items store</li>
-                                    <li>Used MailChimp to set up mailing list for advertising and marketing purposes</li>
                                 </ul>
                             </div>
                         </div>

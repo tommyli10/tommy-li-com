@@ -1,7 +1,7 @@
 ---
 title: Canterbury Gardens
 order: 4
-period: 2018
+period: 2019
 slug: canterbury-gardens
 description: Holiday Gift Shop
 tech: [Web Design, WordPress Development, eCommerce, Migration]
