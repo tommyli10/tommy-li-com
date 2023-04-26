@@ -2,7 +2,7 @@
   My personal site
 </h1>
 <div>
-  <a href="https://tommy-li.com/">Live Site</a>
+  <a href="https://tommy-li.netlify.app/">Live Site</a>
 </div>
 <br />
 <p>Fully responsive site built from scratch with React, SASS, and Gatsby. Hosted on Netlify</p>
